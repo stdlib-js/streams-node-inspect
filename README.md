@@ -252,6 +252,22 @@ s1.end();
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/streams/node/debug`][@stdlib/streams/node/debug]: transform stream for debugging stream pipelines.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -312,6 +328,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [object-mode]: https://nodejs.org/api/stream.html#stream_object_mode
 
 [transform-stream]: https://nodejs.org/api/stream.html
+
+<!-- <related-links> -->
+
+[@stdlib/streams/node/debug]: https://github.com/stdlib-js/streams-node-debug
+
+<!-- </related-links> -->
 
 </section>
 
