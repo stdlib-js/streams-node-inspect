@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/streams-node-inspect",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "Transform stream for inspecting streamed data.",
   "license": "Apache-2.0",
   "author": {
@@ -42,6 +42,7 @@
     "@stdlib/assert-is-function": "^0.0.x",
     "@stdlib/assert-is-nonnegative-number": "^0.0.x",
     "@stdlib/assert-is-plain-object": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x",
     "@stdlib/utils-copy": "^0.0.x",
     "@stdlib/utils-define-nonenumerable-property": "^0.0.x",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x",
