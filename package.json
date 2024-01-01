@@ -52,14 +52,14 @@
     "readable-stream": "^2.1.4"
   },
   "devDependencies": {
-    "@stdlib/bench": "^0.2.1",
     "@stdlib/streams-node-stdout": "^0.1.1",
     "@stdlib/streams-node-transform": "^0.1.0",
     "@stdlib/utils-noop": "^0.1.1",
     "@stdlib/utils-parse-json": "^0.1.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
-    "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
+    "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
+    "@stdlib/bench-harness": "^0.1.2"
   },
   "engines": {
     "node": ">=0.10.0",
