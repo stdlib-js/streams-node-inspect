@@ -42,7 +42,7 @@
     "@stdlib/assert-is-function": "^0.2.3",
     "@stdlib/assert-is-nonnegative-number": "^0.2.3",
     "@stdlib/assert-is-plain-object": "^0.2.3",
-    "@stdlib/object-assign": "^0.2.2",
+    "@stdlib/object-assign": "^0.2.3",
     "@stdlib/string-format": "^0.2.3",
     "@stdlib/utils-define-nonenumerable-property": "^0.2.3",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3",
@@ -54,13 +54,13 @@
   },
   "devDependencies": {
     "@stdlib/streams-node-stdout": "^0.2.3",
-    "@stdlib/streams-node-transform": "^0.2.2",
+    "@stdlib/streams-node-transform": "^0.2.3",
     "@stdlib/utils-noop": "^0.2.3",
     "@stdlib/utils-parse-json": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.2"
+    "@stdlib/bench-harness": "^0.2.3"
   },
   "engines": {
     "node": ">=0.10.0",
